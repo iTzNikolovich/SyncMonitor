@@ -12,7 +12,6 @@ BTC SyncMonitor is a Bash script that allows you to monitor the synchronization 
 
 ## Requirements
 
-- Bash
 - curl
 - bitcoin-cli (Bitcoin Core command-line interface)
 
@@ -38,4 +37,3 @@ BTC SyncMonitor is provided for informational and educational purposes only. It 
 ## Contributions
 
 Contributions to BTC SyncMonitor are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
