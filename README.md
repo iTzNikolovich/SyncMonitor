@@ -1,4 +1,4 @@
-# BTC SyncMonitor
+# SyncMonitor
 
 BTC SyncMonitor is a Bash script that allows you to monitor the synchronization status of the Bitcoin blockchain by comparing the current block height with the block height of your local Bitcoin node.
 
